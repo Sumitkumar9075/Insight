@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "History Lecture",
+    "discription": "History Lecturer Cadre | Marathon Class | Indian History | History Lecture",
+    "price": 0,
+    "category": "free",
+    "link": "https://www.youtube.com/live/7IYZL2pAf6I?si=Z_pKfpSrhEraFtHD",
+    "image": "https://img.youtube.com/vi/7IYZL2pAf6I/maxresdefault.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Online Coaching",
+    "discription": "Start For Master Cadre, ETT 2nd Paper, Punjab Govt. Exams, SSC",
+    "price": 0,
+    "category": "free",
+    "link": "https://youtu.be/o6dVbMJNpvU?si=E9J4o3UC2AtnMner",
+
+    "image": "https://img.youtube.com/vi/o6dVbMJNpvU/maxresdefault.jpg"
+  },
+  {
+    "id": 3,
+    "name": "PSTET Punjabi Preparation",
+    "discription": " Pstet Paper 1 & 2 exam",
+    "price": 0,
+    "category": "free",
+    "link": "https://www.youtube.com/live/kDZs3s-xSW8?si=SfFMH2_vIuM_Nt8H",
+    "image": "https://img.youtube.com/vi/kDZs3s-xSW8/maxresdefault.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Lecturer Cadre History",
+    "discription": " One Liner Question",
+    "price": 0,
+    "category": "free",
+    "link": "https://www.youtube.com/watch?v=-BN_UbJfkxw&list=PLSsxUHO1gjfRpgg0jTodeYGZkkhZUOfL8",
+    "image": "https://img.youtube.com/vi/-BN_UbJfkxw/maxresdefault.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Master Cadre Punjabi ",
+    "discription": " Grammar Dhuni-Bodh | ਪੰਜਾਬੀ ਵਿਆਕਰਨ ਧੁਨੀ-ਬੋਧ ",
+    "price": 0,
+    "category": "free",
+    "link": "https://www.youtube.com/watch?v=_iyKARu83bc",
+    "image": "https://img.youtube.com/vi/_iyKARu83bc/maxresdefault.jpg"
+  },
+  {
+    "id": 6,
+    "name": "PSTET CDP",
+    "discription": " Lecture / ਵਾਧਾ ਅਤੇ ਵਿਕਾਸ਼ / Growth and Development",
+    "price": 0,
+    "category": "free",
+    "link":"https://www.youtube.com/watch?v=IgMUuKJHN_M",
+    "image": "https://img.youtube.com/vi/IgMUuKJHN_M/maxresdefault.jpg"
+  }
+]
